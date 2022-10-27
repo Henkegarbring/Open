@@ -109,11 +109,11 @@
 .divider_line {
     display:flex;
     position:relative;
-    top:-1.5vh;
-    left: 25vw;
+    top:-1vh;
+    left: 28vw;
     background-color:rgb(141, 165, 243);  
-    width:19vw;
-    height: 1.7vh;
+    width:35vw;
+    height: 0.7vh;
     border-radius: 30px;
     opacity:0.5;
     border-style:solid;
